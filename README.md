@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaniCh-Coder
 - 👀 I’m interested in ...
-  - Pliease visit my [blog]([https://www.chreinvent.com/](https://www.chreinvent.com/daniel-christello).
+  - Pliease visit my [blog](https://www.chreinvent.com/daniel-christello).
     - You are welcome!!
 - 🌱 I’m currently learning ...
   - a lot of stuff, as always.
