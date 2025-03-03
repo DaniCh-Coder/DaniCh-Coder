@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @DaniCh-Coder
 - 👀 I’m interested in ...
-  - Pliease visit my [blog]([https://www.chreinvent.com/](https://www.chreinvent.com/daniel-christello)).
+  - Pliease visit my [blog]([https://www.chreinvent.com/](https://www.chreinvent.com/daniel-christello).
     - You are welcome!!
 - 🌱 I’m currently learning ...
-  - a lot of stuff, as always. But currently, most about:
-    - IA and machice learning  
+  - a lot of stuff, as always.
+    - But currently, most about: IA and machice learning  
 - 💞️ I’m looking to collaborate on ...
   - IA, machine learning.
     - With people who I can help and I can learn from.  
